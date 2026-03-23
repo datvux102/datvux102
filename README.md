@@ -59,13 +59,14 @@
 
 ### 🌐 Freelance Web Developer
 
-**Sandals Joint Stock Company (Sandals JSC) – Landing Page**
-- Built responsive landing page for advertising campaigns  
-- Focused on **UI/UX & performance optimization**
+**4LL IN – Integrated Event & E-commerce Platform**
+- **Core Engine:** Engineered a multi-functional ecosystem including **Artist Portfolios**, **Tiered Ticketing Systems**, and an automated **Order Management System**.
+- **Features:** Developed dynamic Cart, Secure Checkout, and a real-time **Order Tracking** module.
+- **Backend:** Designed complex relational database schemas to handle diverse entities (Artists, Tickets, Policies, and Customer Orders).
 
-**4LL IN VINA CO., LTD – Store Website**
-- Developed e-commerce website with product display  
-- Integrated **backend & database (MySQL)** ---
+**Sandals Enterprise – Conversion-Focused Landing Page**
+- Built high-performance landing pages for large-scale advertising campaigns.
+- Focused on **Core Web Vitals**, UI/UX consistency, and mobile-first responsiveness.
 
 ## 🚀 Projects
 
