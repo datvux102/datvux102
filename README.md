@@ -59,11 +59,11 @@
 
 ### 🌐 Freelance Web Developer
 
-**Sandals Enterprise – Landing Page**
+**Sandals Joint Stock Company (Sandals JSC) – Landing Page**
 - Built responsive landing page for advertising campaigns  
 - Focused on **UI/UX & performance optimization**
 
-**4LL IN – Store Website**
+**4LL IN VINA CO., LTD – Store Website**
 - Developed e-commerce website with product display  
 - Integrated **backend & database (MySQL)** ---
 
